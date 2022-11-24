@@ -18,3 +18,7 @@ Specifications:
   
   
 <img width="788" alt="Screenshot 2022-11-23 at 10 32 37 PM" src="https://user-images.githubusercontent.com/102771088/203688019-88a43930-f22d-404b-9b9d-887e8c7be429.png">
+
+
+<img width="1007" alt="Screenshot 2022-11-23 at 11 30 57 PM" src="https://user-images.githubusercontent.com/102771088/203694662-712fa60d-b7a7-4bc6-9543-b193db3b6578.png">
+<img width="1008" alt="Screenshot 2022-11-23 at 11 30 33 PM" src="https://user-images.githubusercontent.com/102771088/203694632-bd7d9cfd-fe57-4ed4-8d77-9469e12c082f.png">
